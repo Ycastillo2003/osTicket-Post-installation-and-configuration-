@@ -31,3 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/f68f0e6a-7646-483b-9be2-9cf6c8db25c5)
 
 - Creating Online Banking team.
+
+![image](https://github.com/user-attachments/assets/e9659d1b-542f-4706-9d60-92161de78dc6)
+
+- Creating new agnet (Jane Doe)
