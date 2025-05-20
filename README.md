@@ -67,3 +67,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/92b2d472-3e22-4752-8df5-b88ba6d535ae)
 
 - Adding Help topic Equipment Request.
+
+ ![image](https://github.com/user-attachments/assets/3c487485-143d-43e5-bb57-a48ebf84d85d)
+
+ - Adding Help Topic Password Reset.
+**
