@@ -23,3 +23,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 - Adding Supreme admin role and giving all permissions 
+
+![image](https://github.com/user-attachments/assets/7dba1355-b686-456b-9776-cebfb7fd8eb2)
+
+- Adding sysadmins department
