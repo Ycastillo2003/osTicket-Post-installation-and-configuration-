@@ -71,4 +71,7 @@ This tutorial outlines the post-install configuration of the open-source help de
  ![image](https://github.com/user-attachments/assets/3c487485-143d-43e5-bb57-a48ebf84d85d)
 
  - Adding Help Topic Password Reset.
-**
+
+![image](https://github.com/user-attachments/assets/d2fbc40c-0302-4fa5-b399-2aac6b82ea99)
+
+- Adding Help Topic Other.
