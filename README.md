@@ -58,4 +58,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/8c5a30c5-75cc-48af-9b63-b5695b93ba2b)
 
-- Adding Help topic Business Critical Outage
+- Adding Help topic Business Critical Outage.
