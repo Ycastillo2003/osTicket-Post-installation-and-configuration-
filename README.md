@@ -75,3 +75,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/d2fbc40c-0302-4fa5-b399-2aac6b82ea99)
 
 - Adding Help Topic Other.
+
+# Thank you for making to the end of this Lab.
