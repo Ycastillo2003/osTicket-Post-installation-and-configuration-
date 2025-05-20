@@ -34,4 +34,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/e9659d1b-542f-4706-9d60-92161de78dc6)
 
-- Creating new agnet (Jane Doe)
+- Creating new agenhjt (Jane Doe)
