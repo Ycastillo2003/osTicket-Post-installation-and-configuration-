@@ -55,3 +55,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/e92e2e93-480a-4eac-9039-31560b20980b)
 
 - Adding sla plan (Sev C).
+
+![image](https://github.com/user-attachments/assets/8c5a30c5-75cc-48af-9b63-b5695b93ba2b)
+
+- Adding Help topic Business Critical Outage
