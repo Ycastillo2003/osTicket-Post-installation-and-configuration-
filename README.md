@@ -47,3 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/d9e37357-7756-4ad7-ad19-357d20a8f653)
 
 - Adding sla plan (Sev A)
+
+![image](https://github.com/user-attachments/assets/0a09e20f-7525-48e7-85d0-f225118c9f23)
+
+- Adding sla plan (sev B)
