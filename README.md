@@ -63,3 +63,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/f8933505-f3ed-4f30-8ded-ca7f4a2d2de9)
 
 - Adding Help topic Personal Computer Issues.
+
+![image](https://github.com/user-attachments/assets/92b2d472-3e22-4752-8df5-b88ba6d535ae)
+
+- Adding Help topic Equipment Request.
