@@ -19,6 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-![image](https://github.com/user-attachments/assets/7f5acdc2-fde2-41e1-bc68-47d1612f4071)
+![image](https://github.com/user-attachments/assets/7f5acdc2-fde2-41e1-bc68-47d1612f4071) ![image](https://github.com/user-attachments/assets/0e915085-4394-4986-b08b-3a6dce3cef4e)
+
 
 - Adding Supreme admin role and giving all permissions 
