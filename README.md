@@ -34,20 +34,24 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/e9659d1b-542f-4706-9d60-92161de78dc6)
 
-- Creating new agent (Jane Doe)
+- Creating new agent (Jane Doe).
 
 ![image](https://github.com/user-attachments/assets/e984b3fe-2070-4f93-ab4a-a45f70ff6451)
 
-- Creating new agent (John Doe)
+- Creating new agent (John Doe).
 
 ![image](https://github.com/user-attachments/assets/3ba4c8af-d08d-46a4-b090-a44619eeef29)
 
-- Adding enduser (karen)
+- Adding enduser (karen).
 
 ![image](https://github.com/user-attachments/assets/d9e37357-7756-4ad7-ad19-357d20a8f653)
 
-- Adding sla plan (Sev A)
+- Adding sla plan (Sev A).
 
 ![image](https://github.com/user-attachments/assets/0a09e20f-7525-48e7-85d0-f225118c9f23)
 
-- Adding sla plan (sev B)
+- Adding sla plan (Sev B).
+
+![image](https://github.com/user-attachments/assets/e92e2e93-480a-4eac-9039-31560b20980b)
+
+- Adding sla plan (Sev C).
