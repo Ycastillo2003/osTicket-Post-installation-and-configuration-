@@ -43,3 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/3ba4c8af-d08d-46a4-b090-a44619eeef29)
 
 - Adding enduser (karen)
+
+![image](https://github.com/user-attachments/assets/d9e37357-7756-4ad7-ad19-357d20a8f653)
+
+- Adding sla plan (Sev A)
