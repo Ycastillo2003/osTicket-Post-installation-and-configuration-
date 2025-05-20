@@ -76,4 +76,3 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Adding Help Topic Other.
 
-# Thank you for making to the end of this Lab.
