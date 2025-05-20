@@ -34,4 +34,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/user-attachments/assets/e9659d1b-542f-4706-9d60-92161de78dc6)
 
-- Creating new agenhjt (Jane Doe)
+- Creating new agent (Jane Doe)
+
+![image](https://github.com/user-attachments/assets/e984b3fe-2070-4f93-ab4a-a45f70ff6451)
+
+- Creating new agent (John Doe)
