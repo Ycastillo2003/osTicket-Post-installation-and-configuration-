@@ -39,3 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![image](https://github.com/user-attachments/assets/e984b3fe-2070-4f93-ab4a-a45f70ff6451)
 
 - Creating new agent (John Doe)
+
+![image](https://github.com/user-attachments/assets/3ba4c8af-d08d-46a4-b090-a44619eeef29)
+
+- Adding enduser (karen)
